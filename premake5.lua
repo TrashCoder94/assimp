@@ -9,10 +9,9 @@ project "assimp"
 
 	files
 	{
-		"build/**.h",
-		"build/**.cpp",
-		"build/**.hpp",
-		"build/**.inl"
+		"include/assimp/**.h",
+		"include/assimp/**.hpp",
+		"include/assimp/**.inl",
 	}
 
 	filter "system:windows"
