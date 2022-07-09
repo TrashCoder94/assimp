@@ -1135,6 +1135,7 @@ SET( assimp_src
   ${PostProcessing_SRCS}
   ${MaterialSystem_SRCS}
   ${STEPParser_SRCS}
+  ${OBJ_SRCS}
 #  ${Step_SRCS} check if we need a different approach
 
   # Model Support
